@@ -1,0 +1,9 @@
+git
+maven
+nodejs
+golang
+shiningpanda
+jacoco
+pipeline-maven
+pyenv-pipeline
+blueocean
